@@ -1,0 +1,255 @@
+/* div img {
+    height: 500px;
+    width: 500px;
+    margin-top: -380px;
+    margin-left: -80px;
+    
+
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+ul {
+    display: flex;
+    background-color: rgb(225, 64, 28);
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    color: black;
+
+}
+
+ul li {
+    padding: 0px 20px 0px;
+    cursor: pointer;
+
+}
+
+#page {
+    height: 400px;
+    width: 300px;
+    float: right;
+    margin-right: 300px;
+    padding: 0;
+
+
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 130%;
+}
+
+#self {
+    margin-left: 5%;
+    margin-top: 7%;
+}
+
+div p {
+
+    width: 550px;
+}
+
+ul img {
+    height: 42px;
+    width: 42px;
+    margin-left: 10px;
+}
+
+i {
+    font-size: 25px;
+    padding-left: 20px;
+    letter-spacing: 2.5px;
+}
+
+@keyframes cursor {
+    60% {
+        border-color: transparent;
+    }
+
+}
+
+@keyframes typing {
+
+    from {
+        width: 0;
+    }
+}
+
+
+.container {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 80px;
+    font-size: 20px;
+    color: white;
+}
+
+/* Cursor */
+.txt-type>.txt {
+    border-right: 0.2rem solid #777;
+}
+
+span {
+    font-size: 80px;
+    margin-left: 0;
+
+
+}
+
+.flogo {
+    width: 10%;
+}
+
+i {
+    margin-top: 6%;
+
+}
+
+.but {
+
+    margin-top: 50px;
+    width: 15%;
+    margin-left: 20%;
+    background-color: white;
+    border-radius: 8px;
+    color: black;
+    border: solid black;
+
+
+}
+
+.background-vid {
+    position: absolute;
+
+    overflow: hidden;
+
+    z-index: -1;
+
+
+}
+
+.but:hover {
+    background-color: rgb(243, 74, 36);
+}
+
+.redirect {
+    color: black;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+.skill {
+
+    font-size: 25px;
+    color: aliceblue;
+    margin: 40px 10px 0px;
+    width: 100%;
+    color: black;
+    text-decoration: double;
+
+
+
+}
+
+.skill-bg {
+    background-color: chocolate;
+}
+
+marquee {
+    color: rgb(35, 2, 66);
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.foot {
+    text-decoration: none;
+    color: #fff;
+    text-shadow: #777;
+
+}
+
+.foot:hover {
+    color: rgb(243, 74, 36);
+}
+
+.navfoot {
+    text-decoration: none;
+    color: #fff;
+    text-shadow: #777;
+    bottom: 0;
+}
+
+.skillcontainer {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 30px;
+    font-size: 18px;
+    color: #0948f7;
+    margin-left: 50px;
+    word-spacing: 3px;
+
+}
+
+.skillfoot {
+    color: white;
+    margin-top: -10px;
+}
+
+.skfoot {
+    margin-top: -25px;
+}
+
+#blur {
+    filter: blur(8px);
+    shape-rendering: inherit;
+}
+
+.ctfoot {
+    margin-top: -5px;
+    color: white;
+
+}
+
+.ctcontainer {
+    width: 100%;
+    margin-top: 5px;
+    font-size: 15px;
+color: #0948f7;
+    -webkit-text-stroke: 0.5px fff;
+    margin-left: 100px;
+    word-spacing: 3px;
+
+}
+.skillfoot:hover {
+    color: rgb(243, 74, 36);
+}
+
+.ctfoot:hover {
+    color: rgb(243, 74, 36);
+}
+#html{
+    width: 66%;
+    
+}
+#css{
+    width: 66%;
+}
+#seo{
+    width: 61%;
+}
+#cp{
+    width: 71%;
+}
+#dbms{
+    width: 77%;
+}
+#trouble{
+    width: 76%;
+}
