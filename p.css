@@ -144,6 +144,7 @@ i {
     font-size: 23px;
     text-decoration: none;
 }
+
 /* skill page styling */
 
 .skill {
@@ -225,12 +226,13 @@ marquee {
     width: 100%;
     margin-top: 5px;
     font-size: 15px;
-color: #0948f7;
+    color: #0948f7;
     -webkit-text-stroke: 0.5px fff;
     margin-left: 100px;
     word-spacing: 3px;
 
 }
+
 .skillfoot:hover {
     color: rgb(243, 74, 36);
 }
@@ -239,55 +241,64 @@ color: #0948f7;
     color: rgb(243, 74, 36);
     /* skill hr tag width */
 }
-#html{
+
+#html {
     width: 79%;
     color: #fff;
-    
+
 }
-#css{
+
+#css {
     width: 79%;
     color: #fff;
 }
-#seo{
+
+#seo {
     width: 73%;
     color: #fff;
 }
-#cp{
+
+#cp {
     width: 85%;
     color: #fff;
 }
-#dbms{
+
+#dbms {
     width: 92%;
     color: #fff;
 }
-#trouble{
+
+#trouble {
     width: 90%;
     color: #fff;
 }
+
 .educontainer {
     width: 100%;
     margin-top: 5px;
     font-size: 35px;
-color: #0948f7;
+    color: #0948f7;
     -webkit-text-stroke: 0.5px fff;
     margin-left: 100px;
     word-spacing: 3px;
 }
 
 /* education hr tag width */
-#eduhr1{
+#eduhr1 {
     width: 21%;
     margin-left: 27px;
     color: #fff;
 
 }
-#eduhr2{
+
+#eduhr2 {
     width: 22%;
     color: #fff;
 
 }
-#eduhr3{
+
+#eduhr3 {
     width: 28%;
     color: #fff;
 
-}   
+}
