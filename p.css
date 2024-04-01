@@ -144,6 +144,7 @@ i {
     font-size: 23px;
     text-decoration: none;
 }
+/* skill page styling */
 
 .skill {
 
@@ -201,6 +202,9 @@ marquee {
     color: white;
     margin-top: -10px;
 }
+
+
+
 
 .skfoot {
     margin-top: -25px;
