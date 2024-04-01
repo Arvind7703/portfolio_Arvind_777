@@ -237,23 +237,57 @@ color: #0948f7;
 
 .ctfoot:hover {
     color: rgb(243, 74, 36);
+    /* skill hr tag width */
 }
 #html{
-    width: 66%;
+    width: 79%;
+    color: #fff;
     
 }
 #css{
-    width: 66%;
+    width: 79%;
+    color: #fff;
 }
 #seo{
-    width: 61%;
+    width: 73%;
+    color: #fff;
 }
 #cp{
-    width: 71%;
+    width: 85%;
+    color: #fff;
 }
 #dbms{
-    width: 77%;
+    width: 92%;
+    color: #fff;
 }
 #trouble{
-    width: 76%;
+    width: 90%;
+    color: #fff;
 }
+.educontainer {
+    width: 100%;
+    margin-top: 5px;
+    font-size: 35px;
+color: #0948f7;
+    -webkit-text-stroke: 0.5px fff;
+    margin-left: 100px;
+    word-spacing: 3px;
+}
+
+/* education hr tag width */
+#eduhr1{
+    width: 21%;
+    margin-left: 27px;
+    color: #fff;
+
+}
+#eduhr2{
+    width: 22%;
+    color: #fff;
+
+}
+#eduhr3{
+    width: 28%;
+    color: #fff;
+
+}   
