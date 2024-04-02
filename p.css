@@ -68,19 +68,7 @@ i {
     letter-spacing: 2.5px;
 }
 
-@keyframes cursor {
-    60% {
-        border-color: transparent;
-    }
 
-}
-
-@keyframes typing {
-
-    from {
-        width: 0;
-    }
-}
 
 
 .container {
@@ -301,4 +289,13 @@ marquee {
     width: 28%;
     color: #fff;
 
+}
+@media screen and (max-width:600) 
+ {
+    .redirect{
+        width:100% ;
+        background-image: none;
+    
+    }
+    
 }
