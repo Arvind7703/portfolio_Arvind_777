@@ -23,8 +23,11 @@
    .txt-type>.txt{
     font-size: 30px;
    }
-   .sticky-header{
-    font-size: small;
+ul li{
+    font-size: 20px;
+   }
+  ul img{
+    margin-left: -20px;
    }
 
 
