@@ -172,7 +172,7 @@ span {
     bottom: 0;
 }
 .ctfoot {
-    margin-top: -5px;
+    margin-top: -25px;
     color: white;
 
 }
@@ -274,17 +274,10 @@ marquee {
 
 }
 
-@media screen and (max-width:600) {
-    .redirect {
-        width: 100%;
-        background-image: none;
 
-    }
 
-}
 #overlay{
     width: 100%;
     height: 100%;
     background-color: rgba(0,0,0,0.5);
 }
-

@@ -1,0 +1,31 @@
+@media only screen and (max-width:480px)
+{
+   .background-vid{
+    display: none;
+
+   }
+   body{
+    background-color: black;
+   }
+   .container{
+    width: 100%;
+   }
+   .blc{
+    font-size: 30px;
+   }
+   .but{
+    width: 70%;
+    margin-right: 30px;
+   }
+   .foot{
+    text-size-adjust:inherit;
+   }
+   .txt-type>.txt{
+    font-size: 30px;
+   }
+   .sticky-header{
+    font-size: small;
+   }
+
+
+}
